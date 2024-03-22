@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, NextJs, NodeJs, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-github-io-gules.vercel.app/](https://portfolio-github-io-gules.vercel.app/)
+- 👨‍💻 All of my projects are available at [Link](https://portfolio-github-io-gules.vercel.app/)
 
 - 💬 Ask me about **Hi there! I am Ronak Patel! You might also know me as RNK PTL. I've been coding for over 2 years now. As a Full Stack developer I've worked with mini project that while build to pursing my Bachelor's Degree. I learn new technology ReactJs, NextJs, NodeJs, JavaScript, Java. I love to build some atteractive website, and grow them. I have been created full stack website using ReactJs, NodeJs and MongoDB. And also creating some clone using JavaScript.**
 
