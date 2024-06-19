@@ -10,6 +10,7 @@
 - 📫 How to reach me **pronak391@gmail.com**
 
 - ⚡ Fun fact **My passion is to learn new tech 💻**
+  
 <a href="https://app.daily.dev/rnk_dev"><img src="https://api.daily.dev/devcards/v2/OI6ObE6N5gENLccBNgKCQ.png?type=wide&r=wlf" width="652" alt="Ronak Dahyabhai Patel's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
