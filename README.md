@@ -25,8 +25,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,nuxtjs,express,mongodb,pug,html,css,redux,pinia,linux,redis,postman,git,github,firebase,babel,bootstrap,tailwind,vuetify&theme=light)](https://skillicons.dev)
 
 <a href="https://github.com/ronakptl996/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ronakptl996" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ronakptl996&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/ronakptl996/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronakptl996&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronakptl996&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
 </a>
